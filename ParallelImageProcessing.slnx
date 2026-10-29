@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Solution Items/" />
+  <Project Path="ParallelImageProcessing.vcxproj" Id="fbff0ac4-c7f4-4178-bc54-68250b71bee7" />
+</Solution>
